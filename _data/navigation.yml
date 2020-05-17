@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: "Projects"
+    url: '/projects/'
+  - title: "Blog"
+    url: https://adamlawson99.github.io/IntelligentProgrammer/
+  - title: "Skills"
+    url: /skills/
+  - title: "Work Experience"
+    url: /workexperience/
+  - title: "About Me"
+    url: /about/
+    
