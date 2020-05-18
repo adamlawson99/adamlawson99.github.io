@@ -68,7 +68,7 @@ plugins:
 # Site Author
 author:
   name             : "Adam Lawson"
-  avatar           :  "assets/images/me.jpg"
+  avatar           :  "assets/images/computer.png"
   bio              : "Passionate software engineer"
   location         : "Ottawa, Canada"
   email            :
