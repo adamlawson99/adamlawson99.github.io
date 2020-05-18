@@ -32,6 +32,7 @@ logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+og_image                 : "https://github.com/adamlawson99/adamlawson99.github.io/raw/master/assets/images/computer.png"
 
 # Build settings
 markdown: kramdown
