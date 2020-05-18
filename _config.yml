@@ -28,11 +28,11 @@ url                      : "https://adamlawson99.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "adamlawson99/adamlawson99.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : #"https://github.com/adamlawson99/adamlawson99.github.io/raw/master/assets/images/computer.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-og_image                 : "https://github.com/adamlawson99/adamlawson99.github.io/raw/master/assets/images/computer.png"
+og_image                 : https://github.com/adamlawson99/adamlawson99.github.io/raw/master/assets/images/computer.png
 
 # Build settings
 markdown: kramdown
