@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 minimal_mistakes_skin: mint
 search: true
+environment: production
 
 
 # Site Settings
@@ -54,7 +55,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-167179912-1"
     anonymize_ip         : true
