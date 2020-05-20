@@ -33,7 +33,7 @@ logo                     : #"https://github.com/adamlawson99/adamlawson99.github
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-og_image                 : "https://raw.githubusercontent.com/adamlawson99/SiteImages/master/Images/computer.png"
+og_image                 : "assets/images/computer.jpg
 
 # SEO Related
 google_site_verification : "0-9cYHZ0U0JWRTK3PDfPRVK9hgYkKf5Sz-qkm_gq0Vs"
