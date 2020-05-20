@@ -23,7 +23,7 @@ title                    : "Adam Lawson"
 title_separator          : "-"
 subtitle                 : "Software Engineer"
 name                     : "Adam Lawson"
-description              : "Personal portoflio for Adam Lawson, software engineer."
+description              : "Adam Lawson's personal developer portfolio. You'll find skills, work experience, projects and more!"
 url                      : "https://adamlawson99.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "adamlawson99/adamlawson99.github.io"
@@ -32,7 +32,7 @@ logo                     : #"https://github.com/adamlawson99/adamlawson99.github
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-og_image                 : "assets/images/computer.png"
+og_image                 : "https://github.com/adamlawson99/raw/master/assets/images/ClimbingStairs/computer.jpg"
 
 # SEO Related
 google_site_verification : "0-9cYHZ0U0JWRTK3PDfPRVK9hgYkKf5Sz-qkm_gq0Vs"
