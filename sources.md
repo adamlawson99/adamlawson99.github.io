@@ -5,6 +5,7 @@ permalink: /sources
 ---
 ## Icons
 
-* [freepik](https://www.flaticon.com/authors/freepik)
-* [wanicon](https://www.flaticon.com/authors/wanicon)
+* [Freepik](https://www.flaticon.com/authors/freepik)
+* [Wanicon](https://www.flaticon.com/authors/wanicon)
 * [Eucalyp](https://creativemarket.com/eucalyp)
+* [Vitaly-gorbachev](https://www.flaticon.com/authors/vitaly-gorbachev)
