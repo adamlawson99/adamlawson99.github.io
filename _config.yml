@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+remote_theme: "mmistakes/minimal-mistakes@4.19.2"
 minimal_mistakes_skin: mint
 search: true
-environment: production
 
 
 # Site Settings
@@ -33,7 +33,7 @@ logo                     : #"https://github.com/adamlawson99/adamlawson99.github
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-og_image                 : /assets/images/computer.jpg
+og_image                 : "/assets/images/computer.jpg" 
 
 # SEO Related
 google_site_verification : "0-9cYHZ0U0JWRTK3PDfPRVK9hgYkKf5Sz-qkm_gq0Vs"
