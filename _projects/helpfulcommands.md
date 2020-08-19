@@ -3,9 +3,11 @@ layout: single
 title: Terminal Commands Utility
 permalink: /projects/HelpfulCommands
 ---
-## Purpose: Create a web API that allows users to query commands for various platforms, such as Windows powershell or Linux terminal.
-## Created With: C#, Entity Framework Core, .NET Core
-## Github: https://github.com/adamlawson99/HelpfulCommands
+**Purpose**: Create a web API that allows users to query commands for various platforms, such as Windows powershell or Linux terminal.
+
+**Created With**: C#, Entity Framework Core, .NET Core
+
+**Github**: https://github.com/adamlawson99/HelpfulCommands
 
 ## About
 The _Terminal Commands Utility_ project was created to solve the problem of forgetting useful commands for Windows and Linux. I found myself frequently forgetting important commands for tasks such as networking, admin, and navigation tasks. I wanted something that was easy to use and would also be platform independent so it could be accessed on Windows or Linux. I settled on a web API created in C# because it best fit what I wanted to accomplish and C# is my favorite language.
@@ -25,8 +27,8 @@ https://localhost:44324/api/Platforms/
 #### Select Patform
 ```
 https://localhost:44324/api/Platforms/1
-[List All Platforms](../assets/images/Projects/TerminalCommands/platformsAll.png)
 ```
+![List All Platforms](../assets/images/Projects/TerminalCommands/platformsAll.png)
 ### List all Categories
 ```
 https://localhost:44324/api/Categories/
