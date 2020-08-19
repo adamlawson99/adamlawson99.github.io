@@ -7,6 +7,7 @@ author_profile: true
 ## Backend
 * C#
 * Java
+* Python
 * .NET Core
 
 ## SQL

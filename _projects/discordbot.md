@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Fitness Tracking Website
-permalink: /projects/FitTrackWebsite
+title: Python Discord Bot
+permalink: /projects/DiscordBot
 ---
 This is a project built using Vue.JS and ASP.NET!
