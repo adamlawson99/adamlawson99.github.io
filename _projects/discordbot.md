@@ -24,6 +24,8 @@ Installation instructions can be found at the Github link above.
 ![Discord Bot Saying Hello](../assets/images/Projects/DiscordBot/hello.png)
 ### Help
 ![Discord Bot Help](../assets/images/Projects/DiscordBot/help.png)
+### Polls
+![Discord Bot Polls](../assets/images/Projects/DiscordBot/polls.png)
 
 
 
