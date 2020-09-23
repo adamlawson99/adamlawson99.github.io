@@ -5,4 +5,4 @@ author_profile: true
 ---
 Hi I'm Adam! I'm a fourth year student at the University of Ottawa, Canada. I love software development and computer science, endlessly exploring all sorts of blogs, papers, textbooks and more. I specialize in back end development, mainly in C#, Java or Python and love creating code thats both well written and performant. I also run the Intelligent Programmer blog where I talk about all sorts of things related to programming. Please click on the links above to find out more!
 
-<iframe src="https://drive.google.com/file/d/1DF0Mfb8V_b_pDBcLUcCzp7Jbv4DyuV6g/view?usp=sharing" width="100%" height="100%">Resume</iframe>
+[resume]("./assets/files/resume.pdf")
