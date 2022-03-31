@@ -3,6 +3,9 @@ title: My Personal Portfolio
 layout: single 
 author_profile: true
 ---
-Hi I'm Adam! I'm a fourth year student at the University of Ottawa, Canada. I love software development and computer science, endlessly exploring all sorts of blogs, papers, textbooks and more. I specialize in back end development, mainly in C#, Java or Python and love creating code thats both well written and performant. I also run the Intelligent Programmer blog where I talk about all sorts of things related to programming. Please click on the links above to find out more!
+Welcome to my website! My name is Adam. I'm a software engineer currently working at AWS developing the software that powers the cloud.
+I'm a huge nerd, interested in all things science or technology. I mainly do backend development, with a touch of front-end for my personal projects.
+I am currently very interested in cloud and distributed computing, and I am working every day to learn more.
+Please have a look around my website to learn more!
 
 [Resume](./assets/files/resume.pdf)
