@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Amazon Aurora.
+title: Amazon Aurora
 permalink: /workexperience/AmazonAurora
 ---
 ### Date : April 2022 - Present
